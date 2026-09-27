@@ -1,0 +1,134 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+    >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Length 1240
+>>
+stream
+BT
+/F1 24 Tf
+50 730 Td
+(Ahmed Hamdy - Flutter Developer) Tj
+/F2 11 Tf
+0 -22 Td
+(Email: ahmedhamdy44vv@gmail.com  |  Location: Egypt  |  Portfolio: Online) Tj
+0 -25 Td
+(========================================================================) Tj
+/F1 15 Tf
+0 -25 Td
+(PROFESSIONAL SUMMARY) Tj
+/F2 10 Tf
+0 -18 Td
+(Flutter Developer with experience in building Android applications and creating elegant,) Tj
+0 -14 Td
+(smooth, and user-friendly digital experiences. Strong focus on clean architecture, responsive) Tj
+0 -14 Td
+(UI implementation, REST API integration, and performance optimization.) Tj
+/F1 15 Tf
+0 -26 Td
+(EDUCATION) Tj
+/F2 10 Tf
+0 -18 Td
+(Calhatha New University - Faculty of Computers and Information) Tj
+0 -14 Td
+(Grade: Very Good  |  Focus Areas: IT, Computer Science, Artificial Intelligence) Tj
+0 -14 Td
+(Comprehensive coursework in Software Engineering, Data Structures, OOP, and Modern Tech.) Tj
+/F1 15 Tf
+0 -26 Td
+(TECHNICAL SKILLS) Tj
+/F2 10 Tf
+0 -18 Td
+(Mobile & Frameworks: Flutter, Dart, Android Development, Cross-Platform UI) Tj
+0 -14 Td
+(UI/UX & Design: Responsive Design, Figma/Photoshop, Clean UI Patterns, Micro-animations) Tj
+0 -14 Td
+(Web Technologies: HTML5, CSS3, JavaScript, RESTful APIs) Tj
+0 -14 Td
+(Tools & Practices: Git, GitHub, Clean Architecture, State Management, Problem Solving) Tj
+/F1 15 Tf
+0 -26 Td
+(PROJECTS) Tj
+/F2 10 Tf
+0 -18 Td
+(1. Todo App - Mobile Task Management) Tj
+0 -14 Td
+(   - Designed and built with Flutter & Dart for daily productivity and task organization.) Tj
+0 -14 Td
+(   - Implemented intuitive UI, local state storage, and smooth micro-interactions.) Tj
+0 -18 Td
+(2. News App - Daily News Digest) Tj
+0 -14 Td
+(   - Developed a real-time news application integrating external REST APIs.) Tj
+0 -14 Td
+(   - Features categorized feeds, responsive layouts, search, and cached article previews.) Tj
+/F1 15 Tf
+0 -26 Td
+(SERVICES OFFERED) Tj
+/F2 10 Tf
+0 -18 Td
+(- UI/UX Design: Clean, modern, accessible mobile and web interfaces.) Tj
+0 -14 Td
+(- Graphic Design: Consistent visual identity and digital assets.) Tj
+0 -14 Td
+(- Adobe Photoshop: Professional asset creation, photo editing, and graphic polishing.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000266 00000 n 
+0000001558 00000 n 
+0000001629 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+1696
+%%EOF
